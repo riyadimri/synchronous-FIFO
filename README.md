@@ -25,4 +25,4 @@ FIFO- First In First Out. A synchronous FIFO is a type of data buffer, used to s
 ---
 ## Demo Video
 - click below to watch the demo:
-[![Watch the video](https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)](https://youtu.be/bPtL3ZmerzE) 
+- [![Watch the video](https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)](https://youtu.be/bPtL3ZmerzE) 
