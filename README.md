@@ -5,7 +5,7 @@ FIFO- First In First Out. a synchronous FIFO is a type of data buffer, used to s
 ## Parameters:
 - **width=8**
 - **depth=16**
-  ---
+---
 ## Ports: 
 ### Input ports:-
 - **clk** : positive-edge triggering.
@@ -16,8 +16,8 @@ FIFO- First In First Out. a synchronous FIFO is a type of data buffer, used to s
 ### output ports:- 
 - **dout[width-1:0]**: output data to be read from the FIFO.
 - **full**: high, when FIFO is full.
-- **empty** : high, when FIFO is empty.
-  ---
+- **empty**: empty, when FIFO is empty.
+---  
 ## Internal registers:- 
 - **mem**: array to store FIFO data.
 - **wr_ptr[3:0]**: write pointer.
