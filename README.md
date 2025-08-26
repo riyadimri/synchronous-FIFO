@@ -24,4 +24,4 @@ FIFO- First In First Out. A synchronous FIFO is a type of data buffer, used to s
 - **rd_ptr[3:0]**: read pointer.
 ---
 ## Demo Video
-[![Watch the video] (https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)] (https://youtu.be/bPtL3ZmerzE ) 
+[![Watch the video](https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)](https://youtu.be/bPtL3ZmerzE) 
