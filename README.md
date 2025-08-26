@@ -23,6 +23,16 @@ FIFO- First In First Out. A synchronous FIFO is a type of data buffer, used to s
 - **wr_ptr[3:0]**: write pointer.
 - **rd_ptr[3:0]**: read pointer.
 ---
+## Testcases Covered:
+- simple write
+- simple read
+- multiple write
+- multiple read
+- FIFO full condition
+- FIFO empty condition
+- reset functionality
+- wrap-around condition
+---
 ## Demo Video
 - click below to watch the demo:
 - [![Watch the video](https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)](https://youtu.be/bPtL3ZmerzE) 
