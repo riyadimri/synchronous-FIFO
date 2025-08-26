@@ -1,6 +1,6 @@
  # Synchronous FIFO Design and Verification
 This project is about **designing and verification of Synchronous FIFO** (width=8, depth=16).
-FIFO- First In First Out. a synchronous FIFO is a type of data buffer, used to store and retrieve data in the order it was received. It prevents data loss and corruption.
+FIFO- First In First Out. A synchronous FIFO is a type of data buffer, used to store and retrieve data in the order it was received. It prevents data loss and corruption.
 **Synchronous** refers to the fact that data is written and read operation are controlled using the same clock signal. 
 ## Parameters:
 - **width=8**
@@ -24,4 +24,4 @@ FIFO- First In First Out. a synchronous FIFO is a type of data buffer, used to s
 - **rd_ptr[3:0]**: read pointer.
 ---
 ## Demo Video
-[![Watch the video] (https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)] (https://youtu.be/bPtL3ZmerzE?si=xcIku3bxIw1MlVsc ) 
+[![Watch the video] (https://img.youtube.com/vi/bPtL3ZmerzE/0.jpg)] (https://youtu.be/bPtL3ZmerzE ) 
